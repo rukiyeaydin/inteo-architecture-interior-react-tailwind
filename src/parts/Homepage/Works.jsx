@@ -7,7 +7,7 @@ import Button from "../../components/Button";
 
 export default function Works() {
   return (
-    <section className="works section">
+    <section className="works section" id="our-work">
       <div className="works__container container grid gap-12">
         <div className="works__data sm:max-w-lg lg:max-w-3xl">
           <div className="works__subtitle section-subtitle">

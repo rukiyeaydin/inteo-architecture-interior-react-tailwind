@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Footer() {
   return (
-    <footer className="footer pt-32 pb-8">
+    <footer className="footer pt-32 pb-8" id="contact-us">
       <div className="footer__container container grid gap-24">
         <div className="footer__group grid gap-12 md:flex md:items-start md:justify-between">
           <div className="footer__data sm:max-w-lg lg:max-w-3xl">

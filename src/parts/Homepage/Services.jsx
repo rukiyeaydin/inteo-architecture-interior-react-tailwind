@@ -6,7 +6,7 @@ import ServicesIcon3 from "../../assets/images/service-icon-(3).svg";
 
 export default function Services() {
   return (
-    <section className="services section">
+    <section className="services section" id="services">
       <div className="services__container container grid gap-12">
         <div className="services__data sm:max-w-lg lg:max-w-3xl">
           <p className="services__subtitle section-subtitle">

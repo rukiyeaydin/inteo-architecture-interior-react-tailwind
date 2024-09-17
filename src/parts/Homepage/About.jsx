@@ -5,7 +5,7 @@ import Button from "../../components/Button";
 
 export default function About() {
   return (
-    <section className="about section">
+    <section className="about section" id="about">
       <div className="about__container container grid gap-12 lg:grid-cols-2 lg:items-center">
         <div className="about__data sm:max-w-lg md:max-w-xl">
           <div className="about__line section-subtitle">
